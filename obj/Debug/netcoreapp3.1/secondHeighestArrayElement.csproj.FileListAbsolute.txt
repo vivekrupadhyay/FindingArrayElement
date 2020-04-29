@@ -1,0 +1,13 @@
+D:\Personal\dotnetCore\secondHeighestArrayElement\bin\Debug\netcoreapp3.1\secondHeighestArrayElement.exe
+D:\Personal\dotnetCore\secondHeighestArrayElement\bin\Debug\netcoreapp3.1\secondHeighestArrayElement.deps.json
+D:\Personal\dotnetCore\secondHeighestArrayElement\bin\Debug\netcoreapp3.1\secondHeighestArrayElement.runtimeconfig.json
+D:\Personal\dotnetCore\secondHeighestArrayElement\bin\Debug\netcoreapp3.1\secondHeighestArrayElement.runtimeconfig.dev.json
+D:\Personal\dotnetCore\secondHeighestArrayElement\bin\Debug\netcoreapp3.1\secondHeighestArrayElement.dll
+D:\Personal\dotnetCore\secondHeighestArrayElement\bin\Debug\netcoreapp3.1\secondHeighestArrayElement.pdb
+D:\Personal\dotnetCore\secondHeighestArrayElement\obj\Debug\netcoreapp3.1\secondHeighestArrayElement.csprojAssemblyReference.cache
+D:\Personal\dotnetCore\secondHeighestArrayElement\obj\Debug\netcoreapp3.1\secondHeighestArrayElement.csproj.CoreCompileInputs.cache
+D:\Personal\dotnetCore\secondHeighestArrayElement\obj\Debug\netcoreapp3.1\secondHeighestArrayElement.AssemblyInfoInputs.cache
+D:\Personal\dotnetCore\secondHeighestArrayElement\obj\Debug\netcoreapp3.1\secondHeighestArrayElement.AssemblyInfo.cs
+D:\Personal\dotnetCore\secondHeighestArrayElement\obj\Debug\netcoreapp3.1\secondHeighestArrayElement.dll
+D:\Personal\dotnetCore\secondHeighestArrayElement\obj\Debug\netcoreapp3.1\secondHeighestArrayElement.pdb
+D:\Personal\dotnetCore\secondHeighestArrayElement\obj\Debug\netcoreapp3.1\secondHeighestArrayElement.genruntimeconfig.cache
